@@ -17,7 +17,7 @@ Backend Full Engineering (BFE)
 
 [![Tdd](https://img.shields.io/badge/TDD-%23005571?style=for-the-badge&logo=tdd&logoColor=white)](https://github.com/James-Jeong/ttlib)
 [![NetworkFramework](https://img.shields.io/badge/NetworkFramework-%23F7B93E?style=for-the-badge&logo=networkframework&logoColor=white)](https://github.com/James-Jeong/java_network_base_framework)
-[![Fsm](https://img.shields.io/badge/FSM-%23A22846?style=for-the-badge&logo=fsm&logoColor=white)](https://github.com/James-Jeong/FSMManager)
+[![Fsm](https://img.shields.io/badge/FSM-%23A22846?style=for-the-badge&logo=fsm&logoColor=white)](https://github.com/James-Jeong/JFSM)
 [![Sdp](https://img.shields.io/badge/SDP-%23A5CD39?style=for-the-badge&logo=sdp&logoColor=white)](https://github.com/James-Jeong/SdpManager)
 [![Scheduler](https://img.shields.io/badge/Scheduler-%2301FF95?style=for-the-badge&logo=scheduler&logoColor=white)](https://github.com/James-Jeong/jscheduler)
 [![M3U8Maker](https://img.shields.io/badge/M3U8Maker-%23333333?style=for-the-badge&logo=m3u8_maker&logoColor=white)](https://github.com/James-Jeong/JM3U8_MAKER)
